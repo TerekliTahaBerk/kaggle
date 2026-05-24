@@ -1,0 +1,28 @@
+file,source,group,kind,score,rows,columns,mean,std,note
+ours/main/base.csv,ours,main,catboost_main,,188165,"id,PitNextLap",0.27679657594618834,0.3619695243847504,our main CatBoost submissions
+ours/main/prob.csv,ours,main,catboost_main,,188165,"id,PitNextLap",0.27654134368364924,0.3620383973986174,our main CatBoost submissions
+ours/main/s42.csv,ours,main,catboost_main,,188165,"id,PitNextLap",0.2766228857367939,0.36243376322079907,our main CatBoost submissions
+ours/main/s777.csv,ours,main,catboost_main,,188165,"id,PitNextLap",0.2767868775895209,0.3618622198304688,our main CatBoost submissions
+ours/variants/reg.csv,ours,variants,catboost_variant,,188165,"id,PitNextLap",0.279956175614201,0.36255916593359416,our CatBoost variant submissions
+ours/variants/shallow.csv,ours,variants,catboost_variant,,188165,"id,PitNextLap",0.28504258604212657,0.36445609155383873,our CatBoost variant submissions
+public/core/0.95388.csv,public,core,public_core,0.95388,188165,"id,PitNextLap",0.21698400302296703,0.3147047223557924,core public submissions used before b10
+public/core/0.95400.csv,public,core,public_core,0.954,188165,"id,PitNextLap",0.21485860963369127,0.313753373072791,core public submissions used before b10
+public/core/0.95401.csv,public,core,public_core,0.95401,188165,"id,PitNextLap",0.213334271910844,0.3127602401972593,core public submissions used before b10
+public/core/0.95402.csv,public,core,public_core,0.95402,188165,"id,PitNextLap",0.22625425486843723,0.32047432980482965,core public submissions used before b10
+public/core/0.95404.csv,public,core,public_core,0.95404,188165,"id,PitNextLap",0.22286075984831313,0.31837771319467084,core public submissions used before b10
+public/core/0.95405.csv,public,core,public_core,0.95405,188165,"id,PitNextLap",0.2194672647263508,0.3163528059519291,core public submissions used before b10
+public/diverse/0.95381.csv,public,diverse,public_diverse,0.95381,188165,"id,PitNextLap",0.5000023082420184,0.2877314395511322,diverse public submission used as small correction
+public/rank_diverse/0.95446.csv,public,rank_diverse,public_rank_diverse,0.95446,188165,"id,PitNextLap",0.500002657242314,0.2886587047961239,rank-like diverse public submissions used only through rank remapping
+public/super/0.95411_a.csv,public,super,public_super_anchor,0.95411,188165,"id,PitNextLap",0.21055688341637727,0.3098819796759151,strongest public anchor/support submissions
+public/super/0.95411_b.csv,public,super,public_super_anchor,0.95411,188165,"id,PitNextLap",0.20972521305968342,0.3098081905230955,strongest public anchor/support submissions
+public/super/0.95418.csv,public,super,public_super_anchor,0.95418,188165,"id,PitNextLap",0.2039157264014331,0.30669995390859117,strongest public anchor/support submissions
+public/super/0.95419.csv,public,super,public_super_anchor,0.95419,188165,"id,PitNextLap",0.20707645817066814,0.3077709967488884,strongest public anchor/support submissions
+public/super/0.95431_a.csv,public,super,public_super_anchor,0.95431,188165,"id,PitNextLap",0.20245823558749326,0.3068250535672547,strongest public anchor/support submissions
+public/super/0.95431_b.csv,public,super,public_super_anchor,0.95431,188165,"id,PitNextLap",0.20245823528595797,0.3068250399776523,strongest public anchor/support submissions
+public/super/0.95435.csv,public,super,public_super_anchor,0.95435,188165,"id,PitNextLap",0.20949216541180496,0.31140939731921097,strongest public anchor/support submissions
+public/super/0.95437.csv,public,super,public_super_anchor,0.95437,188165,"id,PitNextLap",0.20816388729498983,0.31066675828190493,strongest public anchor/support submissions
+public/super/0.95449.csv,public,super,public_super_anchor,0.95449,188165,"id,PitNextLap",0.20583023942914622,0.3064791532554859,strongest public anchor/support submissions
+public/support/0.95305.csv,public,support,public_support,0.95305,188165,"id,PitNextLap",0.29601526842186193,0.37356281259173335,lower-score public support submissions
+public/support/0.95356.csv,public,support,public_support,0.95356,188165,"id,PitNextLap",0.1985231769127143,0.30649745097618164,lower-score public support submissions
+public/top_external/0.95409_a.csv,public,top_external,public_top_external,0.95409,188165,"id,PitNextLap",0.2093150380604067,0.3111344678669148,previous 0.95409 public submissions
+public/top_external/0.95409_b.csv,public,top_external,public_top_external,0.95409,188165,"id,PitNextLap",0.20522526719135478,0.3082717013003217,previous 0.95409 public submissions

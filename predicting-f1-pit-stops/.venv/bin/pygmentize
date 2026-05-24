@@ -1,0 +1,6 @@
+#!/Users/berk.terekli/Documents/GitHub/kaggle/predicting-f1-pit-stops/.venv/bin/python3.12
+import sys
+from pygments.cmdline import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())

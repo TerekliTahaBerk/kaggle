@@ -1,0 +1,151 @@
+name,min_mmr,max_mmr,version
+Unranked,0,0,v1
+Bronze 4,2700,2799,v1
+Bronze 3,2800,2899,v1
+Bronze 2,2900,3049,v1
+Bronze 1,3050,3199,v1
+Silver 4,3200,3349,v1
+Silver 3,3350,3519,v1
+Silver 2,3520,3699,v1
+Silver 1,3700,3929,v1
+Gold 4,3930,4159,v1
+Gold 3,4160,4399,v1
+Gold 2,4400,4639,v1
+Gold 1,4640,4899,v1
+Platinum 3,4900,5159,v1
+Platinum 2,5160,5449,v1
+Platinum 1,5450,5999,v1
+Diamond,6000,999999,v1
+Copper 4,1,2199,v1
+Copper 3,2200,2399,v1
+Copper 2,2400,2549,v1
+Copper 1,2550,2699,v1
+Unranked,0,0,v2
+Copper 4,1,1399,v2
+Copper 3,1400,1499,v2
+Copper 2,1500,1599,v2
+Copper 1,1600,1699,v2
+Bronze 4,1700,1799,v2
+Bronze 3,1800,1899,v2
+Bronze 2,1900,1999,v2
+Bronze 1,2000,2099,v2
+Silver 4,2100,2199,v2
+Silver 3,2200,2299,v2
+Silver 2,2300,2399,v2
+Silver 1,2400,2499,v2
+Gold 4,2500,2599,v2
+Gold 3,2600,2699,v2
+Gold 2,2700,2700,v2
+Gold 1,2800,2999,v2
+Platinum 3,3000,3199,v2
+Platinum 2,3200,3399,v2
+Platinum 1,3400,3699,v2
+Diamond,3700,999999,v2
+Unranked,0,0,v3
+Copper 4,1,1399,v3
+Copper 3,1400,1499,v3
+Copper 2,1500,1599,v3
+Copper 1,1600,1699,v3
+Bronze 4,1700,1799,v3
+Bronze 3,1800,1899,v3
+Bronze 2,1900,1999,v3
+Bronze 1,2000,2099,v3
+Silver 4,2100,2199,v3
+Silver 3,2200,2299,v3
+Silver 2,2300,2399,v3
+Silver 1,2400,2499,v3
+Gold 4,2500,2699,v3
+Gold 3,2700,2899,v3
+Gold 2,2900,3099,v3
+Gold 1,3100,3299,v3
+Platinum 3,3300,3699,v3
+Platinum 2,3700,4099,v3
+Platinum 1,4100,4499,v3
+Diamond,4500,999999,v3
+Unranked,0,0,v4
+Copper 5,1,1199,v4
+Copper 4,1200,1299,v4
+Copper 3,1300,1399,v4
+Copper 2,1400,1499,v4
+Copper 1,1500,1599,v4
+Bronze 5,1600,1699,v4
+Bronze 4,1700,1799,v4
+Bronze 3,1800,1899,v4
+Bronze 2,1900,1999,v4
+Bronze 1,2000,2099,v4
+Silver 5,2100,2199,v4
+Silver 4,2200,2299,v4
+Silver 3,2300,2399,v4
+Silver 2,2400,2499,v4
+Silver 1,2500,2599,v4
+Gold 3,2600,2799,v4
+Gold 2,2800,2999,v4
+Gold 1,3000,3199,v4
+Platinum 3,3200,3599,v4
+Platinum 2,3600,3999,v4
+Platinum 1,4000,4399,v4
+Diamond,4400,4999,v4
+Champion,5000,999999,v4
+Unranked,0,0,v5
+Copper 5,1,1199,v5
+Copper 4,1200,1299,v5
+Copper 3,1300,1399,v5
+Copper 2,1400,1499,v5
+Copper 1,1500,1599,v5
+Bronze 5,1600,1699,v5
+Bronze 4,1700,1799,v5
+Bronze 3,1800,1899,v5
+Bronze 2,1900,1999,v5
+Bronze 1,2000,2099,v5
+Silver 5,2100,2199,v5
+Silver 4,2200,2299,v5
+Silver 3,2300,2399,v5
+Silver 2,2400,2499,v5
+Silver 1,2500,2599,v5
+Gold 3,2600,2799,v5
+Gold 2,2800,2999,v5
+Gold 1,3000,3199,v5
+Platinum 3,3200,3499,v5
+Platinum 2,3500,3799,v5
+Platinum 1,3800,4099,v5
+Diamond 3,4100,4399,v5
+Diamond 2,4400,4699,v5
+Diamond 1,4700,4999,v5
+Champion,5000,999999,v5
+Unranked,0,999,v6
+Copper 5,1000,1099,v6
+Copper 4,1100,1199,v6
+Copper 3,1200,1299,v6
+Copper 2,1300,1399,v6
+Copper 1,1400,1499,v6
+Bronze 5,1500,1599,v6
+Bronze 4,1600,1699,v6
+Bronze 3,1700,1799,v6
+Bronze 2,1800,1899,v6
+Bronze 1,1900,1999,v6
+Silver 5,2000,2099,v6
+Silver 4,2100,2199,v6
+Silver 3,2200,2299,v6
+Silver 2,2300,2399,v6
+Silver 1,2400,2499,v6
+Gold 5,2500,2599,v6
+Gold 4,2600,2699,v6
+Gold 3,2700,2799,v6
+Gold 2,2800,2899,v6
+Gold 1,2900,2999,v6
+Platinum 5,3000,3099,v6
+Platinum 4,3100,3199,v6
+Platinum 3,3200,3299,v6
+Platinum 2,3300,3399,v6
+Platinum 1,3400,3499,v6
+Emerald 5,3500,3599,v6
+Emerald 4,3600,3699,v6
+Emerald 3,3700,3799,v6
+Emerald 2,3800,3899,v6
+Emerald 1,3900,3999,v6
+Diamond 5,4000,4099,v6
+Diamond 4,4100,4199,v6
+Diamond 3,4200,4299,v6
+Diamond 2,4300,4399,v6
+Diamond 1,4400,4499,v6
+Champion,4500,999999,v6

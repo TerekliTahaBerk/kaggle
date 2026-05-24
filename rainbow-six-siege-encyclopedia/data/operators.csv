@@ -1,0 +1,79 @@
+name,safename,realname,birthplace,age,date_of_birth,season_introduced,health,speed,unit,country_code,roles,side
+Solid Snake,solid snake,[Classified],"America, United States",null,null,Y11S1,1,3,Rainbow,US,"['Intel', 'Front line']",attacker
+Tubarão,tubarao,Isaac Nunes Oliveira,"Ponta Delgada, Portugal",35,November 24th,Y8S4,2,2,Wolfguard,PT,"['ANTI-ENTRY', 'ANTI-GADGET']",defender
+Solis,solis,Ana Valentina Díaz,"Zipaquirá, Colombia",37,September 18th,Y7S4,2,2,AFEAU,CO,['Intel Gatherer'],defender
+Grim,grim,Charlie Tho Keng Boon,"Jurong, Singapore",39,April 5th,Y7S3,1,3,Nighthaven,SG,"['Intel Gatherer', 'Area Denial']",attacker
+Sens,sens,Néon Ngoma Mutombo,"Brussels, Belgium",30,March 3rd,Y7S2,1,3,SFG,BE,"['Covering Fire', 'Area Denial', 'Crowd Control']",attacker
+Lion,lion,Olivier Flament,"Toulouse, France",31,August 29th,Y3S1,2,2,GIGN,FR,"['Anti Roam', 'Back Line', 'Crowd Control', 'Intel Gatherer']",attacker
+Finka,finka,Lera Melnikova,"Gomel, Belarus",32,June 7,Y3S1,2,2,SPETSNAZ,RU,"['Back Line', 'Buff']",attacker
+Vigil,vigil,Chul Kyung Hwa,REDACTED,34,January 17th,Y2S4,1,3,707TH SMB,SK,"['Intel Denier', 'Roam']",defender
+Sentry,sentry,Undefined,Undefined,0,Undefined,Y9S2,2,2,ROS,Undefined,"['Defender', 'Support']",defender
+Deimos,deimos,Gerald Morris,"Birmingham, Alabama",51,December 24th,Y9S1,2,2,Keres Legion,US,"['INTEL', 'MAP CONTROL']",attacker
+Ram,ram,Bo-Ram Choi,"Busan, South Korea",37,April 25,Y8S3,3,1,Redhammer,KR,['Breach'],attacker
+Fenrir,fenrir,Emil Svensson,"Uppsala, Sweden",34,December 3rd,Y8S2,2,2,Redhammer,SE,['Trapper'],defender
+Brava,brava,Nayara Cardoso,"Curitiba, Brazil",40,January 10th,Y8S1,1,3,Viperstrike,BR,"['Intel', 'Anti Gadget']",attacker
+Azami,azami,Kana Fujiwara,"Kyoto, Japan",28,September 6th,Y7S1,2,2,Viperstrike,JP,['Area Denial'],defender
+Thorn,thorn,Brianna Skehan,"County Kildare, Ireland",28,June 18th,Y6S4,2,2,GARDA SÍOCHÁNA,IE,"['Anchor', 'Secure']",defender
+Osa,osa,Anja Katarina Janković,"Split, Croatia",27,April 29th,Y6S3,3,1,NIGHTHAVEN,HR,"['Intel Gatherer', 'Area Denial', 'Anti Roam']",attacker
+Thunderbird,thunderbird,Mina Sky,Nakoda Territories,36,April 1st,Y6S2,2,2,Wolfguard,CA,"['Secure', 'Roam', 'Buff']",defender
+Flores,flores,Santiago Miguel Lucero,"Buenos Aires, Argentina",38,April 1st,Y6S1,2,2, Ghosteyes,AR,"['Soft Breach', 'Disable', 'Area Denial', 'Back Line']",attacker
+Aruni,aruni,Apha Tawanroong,"Ta Phraya District, Thailand",42,August 9th,Y5S4,3,1,NIGHTHAVEN,TH,"['Secure', 'Intel Gatherer', 'Anchor']",defender
+Zero,zero,Samuel Leo Fisher,"Baltimore, Maryland",63,August 8th,Y5S3,1,3,ROS,US,"['Intel Denier', 'Intel Gatherer']",attacker
+Ace,ace,Håvard Haugland,"Lærdalsøyri, Norway",33,March 15th,Y5S2,2,2,NIGHTHAVEN,NO,"['Front Line', 'Hard Breach']",attacker
+Melusi,melusi,Thandiwe Ndlovu,"Louwsburg, South Africa",32,June 16th,Y5S2,3,1,ITF,SA,"['Crowd Control', 'Intel Gatherer', 'Secure']",defender
+Oryx,oryx,Saif Al Hadid,"Azraq, Jordan",45,July 3rd,Y5S1,2,2,UNAFFILIATED,JO,"['Roam', 'Soft Breach']",defender
+Iana,iana,Nienke Meijer,"Katwijk, the Netherlands",35,August 27th,Y5S1,2,2,REU,NL,"['Intel Denier', 'Intel Gatherer']",attacker
+Wamai,wamai,Ngũgĩ Muchoki Furaha,"Lamu, Kenya",28,June 1st,Y4S4,2,2,NIGHTHAVEN,KE,"['Anchor', 'Secure']",defender
+Kali,kali,Jaimini Kalimohan Shah,"Amreli, India",34,August 21st,Y4S4,2,2,NIGHTHAVEN,IN,"['Back Line', 'Covering Fire', 'Disable']",attacker
+Amaru,amaru,Azucena Rocío Quispe,"Cojata, Peru",48,May 6th,Y4S3,2,2,APCA,PE,"['Flank', 'Front Line']",attacker
+Goyo,goyo,César Ruiz Hernández,"Culiacán Rosales, Mexico",31,June 20th,Y4S3,2,2,FES,MX,"['Area Denial', 'Secure']",defender
+Nøkk,nokk,REDACTED,REDACTED,0,REDACTED,Y4S2,2,2,JAEGER CORPS,DK,"['Flank', 'Intel Denier']",attacker
+Warden,warden,Collinn McKinley,"Louisville, Kentucky",48,March 18th,Y4S2,2,2,SECRET SERVICE,US,"['Anchor', 'Intel Denier']",defender
+Mozzie,mozzie,Max Goose,"Portland, Australia",35,February 15th,Y4S1,2,2,SASR,AN,"['Intel Denier', 'Intel Gatherer', 'Secure']",defender
+Gridlock,gridlock,Tori Tallyo Fairous,"Longreach, Central Queensland, Australia",36,August 5th,Y4S1,3,1,SASR,AN,"['Anti Roam', 'Area Denial', 'Crowd Control']",attacker
+Nomad,nomad,Sanaa El Maktoub,"Marrakesh, Morocco",39,July 27th,Y3S4,2,2,GIGR,MA,"['Anti Roam', 'Crowd Control', 'Trap']",attacker
+Kaid,kaid,Jalal El Fassi,"Aroumd, Morocco",58,June 26th,Y3S4,3,1,GIGR,MA,"['Anchor', 'Anti Hard Breach', 'Secure']",defender
+Clash,clash,Morowa Evans,"London, England",35,June 7th,Y3S3,3,1,MPS,GB,"['Crowd Control', 'Intel Gatherer', 'Secure', 'Shield']",defender
+Maverick,maverick,Erik Thorn,"Boston, Massachusetts",36,April 20th,Y3S3,1,3,THE UNIT,US,"['Back Line', 'Disable', 'Flank', 'Hard Breach']",attacker
+Maestro,maestro,Adriano Martello,"Rome, Italy",45,April 13th,Y3S2,3,1,G.I.S.,IT,"['Anchor', 'Area Denial', 'Intel Gatherer', 'Secure']",defender
+Alibi,alibi,Aria de Luca,"Tripoli, Libya",37,December 15th,Y3S2,1,3,G.I.S.,IT,"['Intel Denier', 'Intel Gatherer', 'Roam', 'Trap']",defender
+Dokkaebi,dokkaebi,Grace Nam,"Seoul, South Korea",29,February 2nd,Y2S4,1,3,707TH SMB,SK,"['Anti Roam', 'Flank', 'Intel Denier', 'Intel Gatherer']",attacker
+Zofia,zofia,Zofia Bosak,"Wrocław, Poland",36,January 28th,Y2S4,3,1,G.R.O.,PL,"['Anti Roam', 'Crowd Control', 'Disable', 'Flank', 'Soft Breach']",attacker
+Ela,ela,Elżbieta Bosak,"Wrocław, Poland",31,November 8th,Y2S4,2,2,G.R.O.,PL,"['Crowd Control', 'Roam', 'Trap']",defender
+Ying,ying,Siu Mei Lin,"Hong Kong, Central",33,May 12th,Y2S3,2,2,S.D.U,HK,"['Crowd Control', 'Front Line']",attacker
+Lesion,lesion,Liu Tze Long,"Hong Kong, Junk Bay (Tseung Kwan O)",44,July 2nd,Y2S3,2,2,S.D.U,HK,"['Anchor', 'Crowd Control', 'Intel Gatherer', 'Roam', 'Trap']",defender
+Mira,mira,Elena María Álvarez,"Madrid, Spain",39,November 18th,Y2S1,3,1,G.E.O.,ES,"['Anchor', 'Intel Gatherer', 'Secure']",defender
+Jackal,jackal,Ryad Ramírez Al-Hassar,"Ceuta, Spain",49,February 29th,Y2S1,2,2,G.E.O.,ES,"['Anti Roam', 'Intel Gatherer']",attacker
+Hibana,hibana,Yumiko Imagawa,"Nagoya, Japan",34,July 12th,Y1S4,1,3,S.A.T.,JP,"['Back Line', 'Front Line', 'Hard Breach']",attacker
+Echo,echo,Masaru Enatsu,"Tokyo, Japan (Suginami-ku)",36,October 31st,Y1S4,2,2,S.A.T.,JP,"['Anchor', 'Crowd Control', 'Intel Gatherer', 'Secure']",defender
+Caveira,caveira,Taina Pereira,"Rinópolis, Brazil",27,October 15th,Y1S3,1,3,BOPE,BR,"['Intel Denier', 'Intel Gatherer', 'Roam']",defender
+Capitão,capitao,Vicente Souza,"Rio de Janeiro, Brazil (Nova Iguaçu)",49,November 17th,Y1S3,1,3,BOPE,BR,"['Area Denial', 'Flank', 'Front Line']",attacker
+Blackbeard,blackbeard,Craig Jenson,"Bellevue, Washington",32,March 12th,Y1S2,2,2,NAVY SEAL,US,"['Back Line', 'Covering Fire', 'Shield']",attacker
+Valkyrie,valkyrie,Meghan J. Castellano,"Oceanside, California",31,July 21st,Y1S2,2,2,NAVY SEAL,US,"['Intel Gatherer', 'Roam']",defender
+Buck,buck,Sebastien Côté,"Montreal, QC",36,August 20th,Y1S1,2,2,JTF2,CA,"['Flank', 'Soft Breach']",attacker
+Frost,frost,Tina Lin Tsang,"Vancouver, British Columbia",32,May 4th,Y1S1,2,2,JTF2,CA,"['Crowd Control', 'Trap']",defender
+Mute,mute,Mark R. Chandar,"York, England",25,October 11th,Y0S0,3,1,SAS,GB,"['Anti Hard Breach', 'Intel Denier', 'Secure']",defender
+Sledge,sledge,Seamus Cowden,"John O’Groats, Scotland",35,April 2nd,Y0S0,3,1,SAS,GB,"['Flank', 'Soft Breach']",attacker
+Smoke,smoke,James Porter,"London, England (King's Cross)",36,May 14th,Y0S0,2,2,SAS,GB,"['Anchor', 'Area Denial', 'Secure']",defender
+Thatcher,thatcher,Mike Baker,"Bideford, England",56,June 22nd,Y0S0,3,1,SAS,GB,"['Back Line', 'Disable']",attacker
+Ash,ash,Eliza Cohen,"Jerusalem, Israel",33,December 24th,Y0S0,1,3,SWAT,US,"['Disable', 'Flank', 'Front Line', 'Soft Breach']",attacker
+Castle,castle,Miles Campbell,"Sherman Oaks, California",36,September 20th,Y0S0,2,2,SWAT,US,"['Anchor', 'Secure']",defender
+Pulse,pulse,Jack Estrada,"Goldsboro, North Carolina",32,October 11th,Y0S0,1,3,SWAT,US,"['Intel Gatherer', 'Roam']",defender
+Thermite,thermite,Jordan Trace,"Plano, Texas",35,March 14th,Y0S0,2,2,SWAT,US,"['Back Line', 'Hard Breach']",attacker
+Montagne,montagne,Gilles Touré,"Bordeaux, France",48,October 11th,Y0S0,3,1,GIGN,FR,['Shield'],attacker
+Twitch,twitch,Emmanuelle Pichon,"ancy, France",28,October 12th,Y0S0,2,2,GIGN,FR,"['Back Line', 'Disable', 'Front Line', 'Intel Gatherer']",attacker
+Doc,doc,Gustave Kateb,"Paris, France",39,September 16th,Y0S0,3,1,GIGN,FR,"['Anchor', 'Buff']",defender
+Rook,rook,Julien Nizan,"Tours, France",27,January 6th,Y0S0,3,1,GIGN,FR,"['Anchor', 'Buff']",defender
+Jäger,jager,Marius Streicher,"Düsseldorf, Germany",39,March 9th,Y0S0,2,2,GSG9,DE,"['Roam', 'Secure']",defender
+Bandit,bandit,Dominic Brunsmeier,"Berlin, Germany",42,August 13th,Y0S0,1,3,GSG9,DE,"['Anti Hard Breach', 'Roam', 'Secure']",defender
+Blitz,blitz,Elias Kötz,"Bremen, Germany",37,April 2nd,Y0S0,2,2,GSG9,DE,"['Anti Roam', 'Crowd Control', 'Front Line', 'Shield']",attacker
+IQ,iq,Monika Weiss,"Leipzig, Germany",38,August 1st,Y0S0,1,3,GSG9,DE,"['Disable', 'Flank', 'Front Line', 'Intel Gatherer']",attacker
+Fuze,fuze,Shuhrat Kessikbayev,"Samarkand, Uzbekistan",39,October 12th,Y0S0,3,1,SPETSNAZ,RU,"['Area Denial', 'Disable', 'Flank']",attacker
+Glaz,glaz,Timur Glazkov,"Vladivostok, Primorsky Krai, Russia",34,July 2nd,Y0S0,1,3,SPETSNAZ,RU,"['Back Line', 'Covering Fire', 'Soft Breach']",attacker
+Tachanka,tachanka,Alexsandr Senaviev,"Saint Petersburg, Russia",54,November 3rd,Y0S0,3,1,SPETSNAZ,RU,"['Anchor', 'Covering Fire', 'Shield']",defender
+Kapkan,kapkan,Maxim Basuda,"Kovrov, Vladimir Oblast, Russia",42,May 14th,Y0S0,2,2,SPETSNAZ,RU,['Trap'],defender
+Recruit,recruit,Unknown,Unknown,0,Unknown,Y0S0,1,1,UNAFFILIATED,,[],defender
+Striker,striker,Undefined,Undefined,0,Undefined,Y9S2,2,2,ROS,Undefined,"['Attacker', 'Support']",attacker
+Skopòs,skopos,"Kure ""Skopós"" Galanos","Cyprus, Greek",49,July 25,Y9S3,2,2,Wolfguard,GR,"['Defender', 'Intel', 'Support']",defender
+Rauora,rauora,Hāpai Iwini,"Christchurch, New Zealand",29,May 11th,Y10S1,2,2,Viperstrike,NZ,"['Support', 'Map Control']",attacker
+Denari,denari,Leon Winzenried,"Lugano, Switzerland",38,November 30th,Y10S3,1,3,Nighthaven,CH,"['ANTI-ENTRY', 'CROWD CONTROL']",defender
